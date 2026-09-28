@@ -1,0 +1,1 @@
+fix: apply control size settings to combat mode on Android
